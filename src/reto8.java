@@ -11,8 +11,8 @@ public class reto8 {
             System.out.println("por favor ingresa el numero");
             num1=registrar.nextInt();
             if ( aleatorio == num1  ){
-                System.out.println(" lograste hacerta el numero maquina "+ aleatorio+" el tuyo es ");
-                System.out.println("con lso intentos "+turnos );
+                System.out.println(" lograste hacerta el numero maquina "+ aleatorio+);
+                System.out.println("con los intentos "+turnos );
                 break;
             }
             else if(turnos==9){
